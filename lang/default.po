@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-07-13 11:43+0100\n"
+"PO-Revision-Date: 2015-07-13 11:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: lang\n"
+
+#: Classes/Stern_local_Pickup_Time.php:211
+msgid "Pickup Time"
+msgstr "Pick up"
+
+#: Templates/CustomUserFieldsTemplate.php:120
+#: Templates/showLoadFileButtonTemplate.php:81
+#: Templates/showLoadMutuelleTemplate.php:35
+#: Templates/showMutuelleListAdminTemplate.php:199
+#: Templates/showMutuelleList_Template.php:90
+#: Templates/showPrescriptionsListAdminTemplate.php:179
+#: Templates/showPrescriptionsListTemplate.php:179
+#: Templates/showPrescriptionsSummaryToggle.php:104
+#: Templates/showPrescriptionsTemplate.php:323
+#: Templates/showSingleMutuelleTemplate.php:83
+#: Templates/showSinglePictureTemplate.php:71
+#: Templates/showSinglePrescriptionTemplate.php:280
+msgid "Login / Register"
+msgstr ""
+
+#: Templates/CustomUserFieldsTemplate.php:120
+#: Templates/showLoadFileButtonTemplate.php:81
+#: Templates/showLoadMutuelleTemplate.php:35
+#: Templates/showMutuelleListAdminTemplate.php:199
+#: Templates/showMutuelleList_Template.php:90
+#: Templates/showPrescriptionsListAdminTemplate.php:179
+#: Templates/showPrescriptionsListTemplate.php:179
+#: Templates/showPrescriptionsSummaryToggle.php:104
+#: Templates/showPrescriptionsTemplate.php:323
+#: Templates/showSingleMutuelleTemplate.php:83
+#: Templates/showSinglePictureTemplate.php:71
+#: Templates/showSinglePrescriptionTemplate.php:280
+msgid "Login"
+msgstr ""
+
+#: Templates/showPrescriptionsListAdminTemplate.php:173
+#: Templates/showPrescriptionsListTemplate.php:173
+msgid "Boutique"
+msgstr ""
+
+#: Templates/showPrescriptionsSummaryToggle.php:14
+msgid "ALAN"
+msgstr ""
+
+#: Templates/showPrescriptionsSummaryToggle.php:19
+msgid "1. Chargement Ordonnance"
+msgstr ""
+
+#: Widget.php:15
+msgid "Title:"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:31
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:36
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""

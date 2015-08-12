@@ -1,0 +1,653 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-07-20 00:45+0100\n"
+"PO-Revision-Date: 2015-07-20 00:46+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: lang\n"
+
+#: Classes/Stern_local_Pickup_Time.php:211
+msgid "Pickup Time"
+msgstr "Date de récupération"
+
+#: Classes/UploadPrescriptionPlginCLass.php:142
+msgid "Price of your prescription is:"
+msgstr "Le prix de votre ordoccance est de:"
+
+#: Repository/PrescriptionRepository.php:40
+#: Repository/PrescriptionRepository.php:60
+msgid "Deleted"
+msgstr "Supprimée"
+
+#: Repository/PrescriptionRepository.php:41
+#: Repository/PrescriptionRepository.php:61
+msgid "Prescription received"
+msgstr "Ordonnance reçue"
+
+#: Repository/PrescriptionRepository.php:42
+#: Repository/PrescriptionRepository.php:62
+msgid "Preparation in progress"
+msgstr "Ordonnance en cours de traitement"
+
+#: Repository/PrescriptionRepository.php:43
+#: Repository/PrescriptionRepository.php:63
+msgid "Preparation completed"
+msgstr "Ordonnance terminée"
+
+#: Repository/PrescriptionRepository.php:44
+#: Repository/PrescriptionRepository.php:64
+msgid "Prescription received and paid"
+msgstr "Ordonnance récupérée et payée"
+
+#: Repository/PrescriptionRepository.php:45
+#: Repository/PrescriptionRepository.php:65
+msgid "Partial preparation complete"
+msgstr "Préparation partielle terminée"
+
+#: Repository/PrescriptionRepository.php:46
+msgid "Document validated"
+msgstr "Document validé"
+
+#: Repository/PrescriptionRepository.php:47
+msgid "Expired document"
+msgstr "Document expiré"
+
+#: Repository/PrescriptionRepository.php:48
+#: Repository/PrescriptionRepository.php:66
+msgid "Pending validation"
+msgstr "En cours de validation"
+
+#: ShortcodeClassController.php:184 ShortcodeClassController.php:319
+#: ShortcodeClassController.php:435 Templates/showLoadMutuelleTemplate.php:33
+msgid "Sorry, you must be a pharmacist for this area."
+msgstr "Vous devez etre pharmacien pour voir l'admin."
+
+#: SternFunctions.php:262 SternFunctions.php:267
+msgid "Pharmacist"
+msgstr "Pharmacien"
+
+#: SternFunctions.php:572
+msgid "Suivant"
+msgstr "Suivant"
+
+#: SternFunctions.php:573
+msgid "Dernier"
+msgstr "Dernier"
+
+#: Templates/CustomUserFieldsTemplate.php:13
+msgid "Fisrt Name"
+msgstr "Prénom"
+
+#: Templates/CustomUserFieldsTemplate.php:20
+#: Templates/showPrescriptionsListTemplate.php:56
+#: Templates/showPrescriptionsListTemplate.php:83
+msgid "Name"
+msgstr "Nom"
+
+#: Templates/CustomUserFieldsTemplate.php:27
+msgid "Birthdate"
+msgstr "Date de Naissance"
+
+#: Templates/CustomUserFieldsTemplate.php:35
+#: Templates/CustomUserFieldsTemplate.php:74
+msgid "Email"
+msgstr "Email"
+
+#: Templates/CustomUserFieldsTemplate.php:54
+msgid "Gender"
+msgstr "Civilité"
+
+#: Templates/CustomUserFieldsTemplate.php:59
+msgid "Female"
+msgstr "Femme"
+
+#: Templates/CustomUserFieldsTemplate.php:62
+msgid "Male"
+msgstr "Homme"
+
+#: Templates/CustomUserFieldsTemplate.php:69
+msgid "How you want to be informed ?"
+msgstr "Type de contact avec votre pharmacie"
+
+#: Templates/CustomUserFieldsTemplate.php:77
+msgid "SMS"
+msgstr "SMS"
+
+#: Templates/CustomUserFieldsTemplate.php:80
+msgid "Mobile"
+msgstr "Mobile"
+
+#: Templates/CustomUserFieldsTemplate.php:83
+msgid "Phone"
+msgstr "Téléphone"
+
+#: Templates/CustomUserFieldsTemplate.php:91
+msgid "Alert"
+msgstr "Alerte"
+
+#: Templates/CustomUserFieldsTemplate.php:96
+msgid "Let me know if a product is not refunded"
+msgstr "M'avertir si un produit n'est pas remboursé."
+
+#: Templates/CustomUserFieldsTemplate.php:99
+msgid "Accept all outstanding products"
+msgstr "Accepter tous les porduits non remboursés"
+
+#: Templates/CustomUserFieldsTemplate.php:105
+msgid "Social security number"
+msgstr "Numéro de sécurité social"
+
+#: Templates/CustomUserFieldsTemplate.php:122
+#: Templates/showLoadFileButtonTemplate.php:115
+#: Templates/showMutuelleListAdminTemplate.php:202
+#: Templates/showMutuelleList_Template.php:90
+#: Templates/showPrescriptionsListAdminTemplate.php:185
+#: Templates/showPrescriptionsListTemplate.php:187
+#: Templates/showPrescriptionsSummaryToggle.php:107
+#: Templates/showSingleMutuelleTemplate.php:83
+msgid "You must be logged in. "
+msgstr "Vous devez vous enregistrer pour atteindre cet espace. "
+
+#: Templates/CustomUserFieldsTemplate.php:124
+#: Templates/showLoadFileButtonTemplate.php:117
+#: Templates/showLoadMutuelleTemplate.php:35
+#: Templates/showMutuelleListAdminTemplate.php:204
+#: Templates/showMutuelleList_Template.php:92
+#: Templates/showPrescriptionsListAdminTemplate.php:187
+#: Templates/showPrescriptionsListTemplate.php:189
+#: Templates/showPrescriptionsSummaryToggle.php:109
+#: Templates/showPrescriptionsTemplate.php:323
+#: Templates/showSingleMutuelleTemplate.php:85
+#: Templates/showSinglePictureTemplate.php:71
+#: Templates/showSinglePrescriptionTemplate.php:299
+msgid "Login / Register"
+msgstr "Login / register"
+
+#: Templates/CustomUserFieldsTemplate.php:124
+#: Templates/showLoadFileButtonTemplate.php:117
+#: Templates/showLoadMutuelleTemplate.php:35
+#: Templates/showMutuelleListAdminTemplate.php:204
+#: Templates/showMutuelleList_Template.php:92
+#: Templates/showPrescriptionsListAdminTemplate.php:187
+#: Templates/showPrescriptionsListTemplate.php:189
+#: Templates/showPrescriptionsSummaryToggle.php:109
+#: Templates/showPrescriptionsTemplate.php:323
+#: Templates/showSingleMutuelleTemplate.php:85
+#: Templates/showSinglePictureTemplate.php:71
+#: Templates/showSinglePrescriptionTemplate.php:299
+msgid "Login"
+msgstr "Login"
+
+#: Templates/OptionBackOfficeTemplate.php:20
+#: Templates/OptionBackOfficeTemplate.php:32
+msgid "Ok. Activated"
+msgstr "Ok. Activé"
+
+#: Templates/OptionBackOfficeTemplate.php:22
+#: Templates/OptionBackOfficeTemplate.php:53
+#: Templates/OptionBackOfficeTemplate.php:71
+msgid "Thanks to install WooCommerce plugin."
+msgstr "Merci de mettre en place le module WooCommerce."
+
+#: Templates/OptionBackOfficeTemplate.php:36
+msgid "Error. Thanks to activate it!"
+msgstr "Erreur. Merci de l'activer"
+
+#: Templates/OptionBackOfficeTemplate.php:44
+msgid "Create pages"
+msgstr "Créer les pages"
+
+#: Templates/OptionBackOfficeTemplate.php:61
+msgid "Create 2 products"
+msgstr "Créer les 2 produits"
+
+#: Templates/backOfficeInstallTemplate.php:23
+msgid "Please visit us!"
+msgstr "Allez faire un tour !"
+
+#: Templates/showLoadFileButtonTemplate.php:34
+msgid "Send your"
+msgstr "Envoyer votre"
+
+#: Templates/showLoadFileButtonTemplate.php:36
+msgid "Upload your prescription. File size is maximum 800 Ko."
+msgstr "Télécharger votre ordonnance. Taille maximale du ficher est de 800Ko."
+
+#: Templates/showLoadFileButtonTemplate.php:57
+msgid "Your comments"
+msgstr "Vos commentaires"
+
+#: Templates/showLoadFileButtonTemplate.php:66
+msgid "Renewable?"
+msgstr "Renouvelable ?"
+
+#: Templates/showLoadFileButtonTemplate.php:78
+msgid "Renewed every"
+msgstr "Renouvellements tous les"
+
+#: Templates/showLoadMutuelleTemplate.php:20
+msgid "Send your document."
+msgstr "Envoyer votre document"
+
+#: Templates/showLoadMutuelleTemplate.php:24
+msgid "Vos commentaires"
+msgstr "Comments"
+
+#: Templates/showMutuelleListAdminTemplate.php:18
+msgid "Search criteria"
+msgstr "Critères de recherche"
+
+#: Templates/showMutuelleListAdminTemplate.php:46
+#: Templates/showPrescriptionsListTemplate.php:59
+msgid "Order"
+msgstr "Commande"
+
+#: Templates/showMutuelleList_Template.php:17
+#: Templates/showSingleMutuelleTemplate.php:29
+#: Templates/showSinglePrescriptionTemplate.php:90
+msgid "Download"
+msgstr "Télécharger"
+
+#: Templates/showMutuelleList_Template.php:20
+#: Templates/showSingleMutuelleTemplate.php:42
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Templates/showMutuelleList_Template.php:23
+msgid "File Name"
+msgstr "Prénom"
+
+#: Templates/showMutuelleList_Template.php:26
+#: Templates/showSingleMutuelleTemplate.php:63
+msgid "End of validity"
+msgstr "Fin de validité"
+
+#: Templates/showMutuelleList_Template.php:29
+#: Templates/showSingleMutuelleTemplate.php:71
+msgid "Status"
+msgstr "Statut"
+
+#: Templates/showPrescriptionsListAdminTemplate.php:177
+msgid "No prescriptions yet. Visit our "
+msgstr "Pas enocre d'ordonannce. Allez sur notre"
+
+#: Templates/showPrescriptionsListAdminTemplate.php:181
+#: Templates/showPrescriptionsListTemplate.php:183
+msgid "Store"
+msgstr "Boutique"
+
+#: Templates/showPrescriptionsListTemplate.php:31
+msgid "Search Criteria"
+msgstr "Critères de recherche"
+
+#: Templates/showPrescriptionsListTemplate.php:65
+msgid "Search"
+msgstr "Rechercher"
+
+#: Templates/showPrescriptionsListTemplate.php:90
+#: Templates/showSinglePrescriptionTemplate.php:224
+msgid "Details"
+msgstr "Details"
+
+#: Templates/showPrescriptionsListTemplate.php:91
+msgid "Sent date"
+msgstr "Date d'envoi"
+
+#: Templates/showPrescriptionsListTemplate.php:92
+#: Templates/showSinglePrescriptionTemplate.php:111
+msgid "Statut"
+msgstr "Status"
+
+#: Templates/showPrescriptionsSummaryToggle.php:23
+msgid "1. Load Prescription"
+msgstr "1. Charger Ordonnance"
+
+#: Templates/showPrescriptionsSummaryToggle.php:26
+msgid "2. Prescriptions list"
+msgstr "2. Litse des ordnnances"
+
+#: Templates/showPrescriptionsSummaryToggle.php:29
+msgid "3. Client Information"
+msgstr "3. Information Client"
+
+#: Templates/showPrescriptionsSummaryToggle.php:32
+msgid "4. Other document to be attached "
+msgstr "4. Mutuelle"
+
+#: Templates/showPrescriptionsSummaryToggle.php:35
+msgid "5. Add to cart"
+msgstr "5. Ajouter au panier"
+
+#: Templates/showPrescriptionsSummaryToggle.php:69
+msgid "Pending prescriptions:"
+msgstr "Nombre d'ordonnance en attente :"
+
+#: Templates/showPrescriptionsSummaryToggle.php:76
+msgid "Other document loaded: "
+msgstr "Autre documents chargés: "
+
+#: Templates/showPrescriptionsSummaryToggle.php:87
+msgid "Add to cart"
+msgstr "Ajouter au Panier"
+
+#: Templates/showPrescriptionsSummaryToggle.php:89
+msgid "Please load at least 1 prescription."
+msgstr "Merci de charger au moins 1 document."
+
+#: Templates/showPrescriptionsTemplate.php:241
+msgid "Order ID"
+msgstr "Numéro de commande"
+
+#: Templates/showPrescriptionsTemplate.php:251
+#: Templates/showSingleMutuelleTemplate.php:55
+msgid "File name"
+msgstr "Nom du fichier"
+
+#: Templates/showPrescriptionsTemplate.php:321
+#: Templates/showSinglePrescriptionTemplate.php:297
+msgid "You must be logged in."
+msgstr "Vous devez vous enregistrer pour atteindre cet espace."
+
+#: Templates/showSinglePictureTemplate.php:69
+msgid "Vous devez vous enregistrer pour atteindre cet espace : "
+msgstr "You must be logged in. "
+
+#: Templates/showSinglePrescriptionTemplate.php:34
+msgid "linked with order"
+msgstr "sous la Commande"
+
+#: Templates/showSinglePrescriptionTemplate.php:64
+msgid "Patient"
+msgstr "Patient"
+
+#: Templates/showSinglePrescriptionTemplate.php:81
+msgid "Nom du fichier"
+msgstr "Nom du fichier"
+
+#: Templates/showSinglePrescriptionTemplate.php:102
+msgid "Download formatted"
+msgstr "Télécharger document formaté"
+
+#: Templates/showSinglePrescriptionTemplate.php:123
+msgid "Mutuelles"
+msgstr "Mutuelles"
+
+#: Templates/showSinglePrescriptionTemplate.php:161
+msgid "Submission date"
+msgstr "Date de soumission du document"
+
+#: Templates/showSinglePrescriptionTemplate.php:170
+msgid "Start date of preparation"
+msgstr "Date de début de la préparation"
+
+#: Templates/showSinglePrescriptionTemplate.php:179
+msgid "End date of preparation"
+msgstr "Date de fin de la préparation"
+
+#: Templates/showSinglePrescriptionTemplate.php:188
+msgid "prepared by the pharmacist"
+msgstr "Préparée par le pharmacien"
+
+#: Templates/showSinglePrescriptionTemplate.php:206
+msgid "Receipt physically Date"
+msgstr "Date de réception en magasin"
+
+#: Templates/showSinglePrescriptionTemplate.php:215
+msgid "Date d\"estimation de fin de la pr&eacute;paration"
+msgstr "Date Preparation completed estimate"
+
+#: Templates/showSinglePrescriptionTemplate.php:233
+msgid "Pharmacist comment"
+msgstr "Commentaire pharmacien"
+
+#: Templates/showSinglePrescriptionTemplate.php:248
+msgid "Price"
+msgstr "Prix"
+
+#: Templates/showSinglePrescriptionTemplate.php:268
+msgid "View admin order"
+msgstr "Voir la commande dans le back office"
+
+#: Widget.php:15
+msgid "Title:"
+msgstr "Titre :"
+
+#: woocommerce/myaccount/my-account.php:37
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:42
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#~ msgid "Upload your prescription. File is maximum 800 Ko."
+#~ msgstr "Charger votre ordonnance. Le fichier doit être au maximum de 800Ko"
+
+#~ msgid "T&eacute;l&eacute;charger"
+#~ msgstr "Download"
+
+#~ msgid "T&eacute;l&eacute;charger Format&eacute;e"
+#~ msgstr "Download formatted"
+
+#~ msgid " sous la Commande "
+#~ msgstr " linked with order "
+
+#~ msgid "Date de r&eacute;ception en magasin"
+#~ msgstr "Receipt physically Date"
+
+#~ msgid "Pr&eacute;par&eacute;e par le pharmacien"
+#~ msgstr "prepared by the pharmacist"
+
+#~ msgid "Date de fin de la pr&eacute;paration"
+#~ msgstr "End date of preparation"
+
+#~ msgid "Date de d&eacute;but de la pr&eacute;paration"
+#~ msgstr "Start date of preparation"
+
+#~ msgid "Voir Admin Order"
+#~ msgstr "View admin order"
+
+#~ msgid "Prix"
+#~ msgstr "Price"
+
+#~ msgid "Date soumission"
+#~ msgstr "Date submission"
+
+#~ msgid "D&eacute;tails"
+#~ msgstr "Details"
+
+#~ msgid "Commentaire pharmacien"
+#~ msgstr "comment pharmacist"
+
+#~ msgid "Nom"
+#~ msgstr "Name"
+
+#~ msgid "Date d'envoi"
+#~ msgstr "Sending date"
+
+#~ msgid "Ajouter au Panier"
+#~ msgstr "Add to cart"
+
+#~ msgid "Commande"
+#~ msgstr "Order"
+
+#~ msgid "Rechercher"
+#~ msgstr "Search"
+
+#~ msgid "Alerte"
+#~ msgstr "Alert"
+
+#~ msgid "M avertir si un produit n est pas rembours&eacute."
+#~ msgstr "Let me know if a product is not refunded"
+
+#~ msgid "Renouvellements tous les"
+#~ msgstr "Renewed every"
+
+#~ msgid "Criteres de recherche"
+#~ msgstr "Search Criteria"
+
+#~ msgid ""
+#~ "Charger votre ordonnance. Le fichier doit &ecirc;tre au maximum de 800Ko"
+#~ msgstr "Upload your prescription. File is maximum 800 Ko."
+
+#~ msgid "Ok. Activ&eacute;"
+#~ msgstr "Ok Activated"
+
+#~ msgid "Merci de mettre en place le module WooCommerce. "
+#~ msgstr "Thanks to set WooCommerce plugin."
+
+#~ msgid "Civilit&eacute;"
+#~ msgstr "Gender"
+
+#~ msgid "Envoyer votre"
+#~ msgstr "Send your "
+
+#~ msgid "Envoyer votre document."
+#~ msgstr "Upload your document"
+
+#~ msgid "Supprim&eacute;e"
+#~ msgstr "Deleted"
+
+#~ msgid "Pr&eacute;paration en cours"
+#~ msgstr "Preparation in progress"
+
+#~ msgid "Pr&eacute;paration termin&eacute;e"
+#~ msgstr "Preparation completed"
+
+#~ msgid "Ordonnance r&eacute;cup&eacute;r&eacute;e et pay&eacute;e"
+#~ msgstr "Prescription received and paid"
+
+#~ msgid "Pr&eacute;paration partielle termin&eacute;e"
+#~ msgstr "Partial preparation complete"
+
+#~ msgid "Mutuelle Valid&eacute;e"
+#~ msgstr "Other document validated"
+
+#~ msgid "Mutuelle P&eacute;rim&eacute;e"
+#~ msgstr "Expired document"
+
+#~ msgid "Being validated"
+#~ msgstr "En cours de validation"
+
+#~ msgid "En cours de validation"
+#~ msgstr "Being validated"
+
+#~ msgid "Vous devez etre pharmacien pour voir l'admin"
+#~ msgstr "You must be a pharmacist to see the admin"
+
+#~ msgid "Vous devez vous enregistrer pour atteindre cet espace. "
+#~ msgstr "You must register to reach the page."
+
+#~ msgid "Femme"
+#~ msgstr "Female"
+
+#~ msgid "Homme"
+#~ msgstr "Male"
+
+#~ msgid "Accepter tous les produit non rembours&eacute;s"
+#~ msgstr "Accept all outstanding products"
+
+#~ msgid "Num&eacute;ro de s&eacute;curit&eacute; social"
+#~ msgstr "Social security number"
+
+#~ msgid "Erreur. Merci de l activer !"
+#~ msgstr "Error. Thanks to activate it !"
+
+#~ msgid "Cr&eacute;er les pages"
+#~ msgstr "Create les pages"
+
+#~ msgid "Cr&eacute;er les 2 produits ordonnances"
+#~ msgstr "Create 2 prescriptions products"
+
+#~ msgid "Boutique"
+#~ msgstr "Store"
+
+#~ msgid "1. Chargement Ordonnance"
+#~ msgstr "1. Load Prescription"
+
+#~ msgid "2. Liste des Ordonnances"
+#~ msgstr "2. Prescriptions list"
+
+#~ msgid "3. Information Client"
+#~ msgstr "3. Client Information"
+
+#~ msgid "4. Mutuelle"
+#~ msgstr "4. Other document to be attached"
+
+#~ msgid "Nombre de mutuelle renseignees : "
+#~ msgstr "Other document : "
+
+#~ msgid "Ordonnance recue"
+#~ msgstr "Prescription received"
+
+#~ msgid "Renouvelable ?"
+#~ msgstr "Renewable?"
+
+#~ msgid "Pr&eacute;nom"
+#~ msgstr "First Name"
+
+#~ msgid "E-mail"
+#~ msgstr "Email"
+
+#~ msgid "Priorit&eacute; de communication"
+#~ msgstr "Communication priority"
+
+#~ msgid "mobile"
+#~ msgstr "Mobile"
+
+#~ msgid "T&eacute;l&eacute;phone"
+#~ msgstr "Phone"
+
+#~ msgid "Supprimer"
+#~ msgstr "Delete"
+
+#~ msgid "Fin de validit&eacute;"
+#~ msgstr "End of validity"
+
+#~ msgid "5. Ajouter au panier"
+#~ msgstr "5. Add to Cart"
+
+#~ msgid "Nombre d\"ordonnance en attente : "
+#~ msgstr "Pending prescriptions: "
+
+#~ msgid "Merci de charger au moins 1 document."
+#~ msgstr "Thank you to load at least one document."
+
+#~ msgid "Date de naissance"
+#~ msgstr "Date de naissance"
+
+#~ msgid "Nombre d\"ordonnance en attente :"
+#~ msgstr "Pending Prescriptions: "
+
+#~ msgid "Envoyer votre document"
+#~ msgstr "Upload your prescription"
+
+#~ msgid "Mettre a jour"
+#~ msgstr "Update"
+
+#~ msgid "Date denvoi"
+#~ msgstr "Date denvoi"
+
+#~ msgid "Pr&eacute;paration patielle termin&eacute;e"
+#~ msgstr "Partial prescription completed"
+
+#~ msgid "Commentaire pharmmacien"
+#~ msgstr "comment pharmacist"
+
+#~ msgid "ALAN"
+#~ msgstr "DEBORAHs"
